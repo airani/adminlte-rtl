@@ -1,0 +1,28 @@
+{
+  "name": "AdminLTE RTL",
+  "description": "AdminLTE package with rtl styles",
+  "homepage": "http://irani.im",
+  "license": "MIT",
+  "authors": [
+    "Ali Irani <ali@irani.im> (http://irani.im)"
+  ],
+  "keywords": [
+    "AdminLTE",
+    "rtl",
+    "bootstrap"
+  ],
+  "main": [
+
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "adminlte": "~2.3.5",
+    "bootstrap-rtl": "~3.4.0"
+  }
+}
