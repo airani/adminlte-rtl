@@ -336,14 +336,17 @@ body {
     }
     .sidebar-mini.sidebar-collapse .sidebar-menu > li > a > span {
         border-top-left-radius: 4px!important;
+        border-top-right-radius: 0!important;
     }
     .sidebar-mini.sidebar-collapse .sidebar-menu > li:not(.treeview) > a > span {
         border-bottom-left-radius: 4px!important;
+        border-bottom-right-radius: 0!important;
     }
     .sidebar-mini.sidebar-collapse .sidebar-menu > li > .treeview-menu {
         padding-top: 5px!important;
         padding-bottom: 5px!important;
         border-bottom-left-radius: 4px!important;
+        border-bottom-right-radius: 0!important;
     }
     .sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > a > span:not(.pull-right),
     .sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > .treeview-menu {
