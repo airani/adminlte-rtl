@@ -1,3 +1,7 @@
+body {
+    direction: rtl;
+}
+
 .layout-boxed .wrapper {
     margin: 0 auto!important;
 }

@@ -1,5 +1,5 @@
 # AdminLTE RTL #
-AdminLTE RTL Version - Free Admin control Panel Theme That Is Based On Bootstrap 3.x https://almsaeedstudio.com 
+[AdminLTE](https://almsaeedstudio.com) RTL Version - Free Admin control Panel Theme That Is Based On Bootstrap 3.x 
 
 # Installation #
 ## bower ##
