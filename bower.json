@@ -1,5 +1,5 @@
 {
-  "name": "AdminLTE RTL",
+  "name": "adminlte-rtl",
   "description": "AdminLTE package with rtl styles",
   "homepage": "http://irani.im",
   "license": "MIT",
@@ -7,9 +7,12 @@
     "Ali Irani <ali@irani.im> (http://irani.im)"
   ],
   "keywords": [
-    "AdminLTE",
+    "adminlte",
     "rtl",
-    "bootstrap"
+    "bootstrap",
+    "theme",
+    "free",
+    "admin"
   ],
   "main": [
 
