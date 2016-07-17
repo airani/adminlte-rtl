@@ -1,5 +1,8 @@
+@import '../../../vazir-font/dist/font-face.css';
+
 body {
     direction: rtl;
+    font-family: "Vazir"!important;
 }
 
 .layout-boxed .wrapper {
