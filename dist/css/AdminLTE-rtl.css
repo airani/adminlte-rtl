@@ -2,7 +2,8 @@
 
 body {
     direction: rtl;
-    font-family: "Vazir"!important;
+    font-family: "Vazir", tahoma!important;
+    font-size: 13px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
