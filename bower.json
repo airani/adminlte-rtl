@@ -26,7 +26,6 @@
   ],
   "dependencies": {
     "adminlte": "~2.3.5",
-    "bootstrap-rtl": "~3.4.0",
-    "vazir-font": "~3.1.0"
+    "bootstrap-rtl": "~3.4.0"
   }
 }
